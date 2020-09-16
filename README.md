@@ -10,4 +10,4 @@ Running Check in RStudio 1.3.1073 with R 4.0.2 on Windows 10 gives a note about 
 
 Running `devtools::check()` gives the same note.
 
-Running `devtools::check(env_vars = c("EXCESSIVE_IMPORTS" = "30"))` gives the same note.
+Running `devtools::check(env_vars = c("_R_CHECK_EXCESSIVE_IMPORTS_" = "30"))` gives the same note.
