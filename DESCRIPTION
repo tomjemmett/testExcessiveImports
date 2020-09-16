@@ -31,3 +31,5 @@ Imports:
     magrittr,
     lintr,
     testthat
+URL: https://github.com/tomjemmett/testExcessiveImports
+BugReports: https://github.com/tomjemmett/testExcessiveImports/issues
